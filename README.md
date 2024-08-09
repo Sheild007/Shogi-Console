@@ -5,6 +5,8 @@
 
 This Shogi project is a console-based implementation of the traditional Japanese chess game, Shogi. It is built using C++ and provides a graphical interface in the console window to interact with the game. The project includes functionalities for drawing the game board, handling moves, capturing pieces, and managing game states.
 
+![shogi](Shogi%20Console/shogi.PNG)
+
 ## Features
 
 - **Game Board Drawing**: Draws the Shogi board with a graphical representation of pieces and captured areas.
@@ -13,6 +15,8 @@ This Shogi project is a console-based implementation of the traditional Japanese
 - **Undo Feature**: Supports undoing the last move.
 - **Promotion**: Manages piece promotion during the game.
 - **File Operations**: Saves and loads game states from files.
+
+![shogi2](Shogi%20Console/shogi2.PNG)
 
 ## Getting Started
 
